@@ -45,11 +45,11 @@
     - [netology.yaml](netology.yaml) – yaml,
     - [netology.jsonnet](netology.jsonnet) – jsonnet.
 1. Убедитесь, что работает подсветка синтаксиса, файлы должны выглядеть вот так:
-    - Terraform: <img alt="Терраформ" src="img/terraform.png"/>
-    - Bash: <img alt="bahs" src="img/bash.png"/>
-    - Markdown: <img alt="markdown" src="img/markdown.png"/>
-    - Yaml: <img alt="Yaml" src="img/yaml.png"/>
-    - Jsonnet: <img alt="Jsonnet" src="img/jsonnet.png"/>
+    - Terraform: <img/terraform.png>
+    - Bash: <img/bash.png>
+    - Markdown: <img/markdown.png>
+    - Yaml: <img/yaml.png>
+    - Jsonnet: <img/jsonnet.png>
 1. Добавьте свое имя в каждый файл, сделайте снимок экрана и загрузите его на любой сервис обмена картинками.
 1. Ссылки на картинки укажите в личном кабинете как решение домашнего задания. 
 
